@@ -1,0 +1,5 @@
+# Exclude data
+data/
+
+# Exclude IPython Notebook checkpoints
+*-checkpoint.ipynb
